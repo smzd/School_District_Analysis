@@ -15,6 +15,7 @@ School District Summary: As we can see, we have 15 schools with 39170 students i
 
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/district_summary_og.png)
 Fig: Original School District Summary
+
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/District_summary_ths.png)
 Fig: New School District Summary
 
@@ -30,6 +31,7 @@ Eliminating 9th grade boosted the individual results of passing math at 93%, rea
 Fig: New School Summary for Thomas High School
 
 Thomas High school was second in place in the original analysis. After replacing values, Thomas high school still is in second place in the top five. the bottom five schools' performance remains the same.
+
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/top5_og.png)
 Fig: Original Top 5 School
 
@@ -40,11 +42,11 @@ Changing 9th-grade math values to NaN for Thomas high school did not affect 10th
 
 Changing 9th-grade reading values to NaN for Thomas high school did not affect 10th, 11th or 12th grade or other schools.
 
-We do see a slight variation in the scores by school size, math, reading, and overall passing numbers, but it is insignificant. Therefore, Overall scores by the school budget, school size, and school type remained the same.
+We do see a slight variation (0.01%) in the school type scores such as math, reading, and overall passing numbers, but it is insignificant. And when we formatted the both dataframes they look identical. 
+
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/school_type_og.png)
-Fig: Original Scores by School Type 
-![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/school_type_ths.png)
-Fig: New Scores by School Type 
+Fig: Scores by School Type 
+
                                                      #Summary
 						     
 •	School Summary: Originally passed math 67%, reading 69%, and overall passing is 65%. After passing math, 93% read 97 %, and general passing is 90%.
