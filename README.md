@@ -45,7 +45,7 @@ Changing 9th-grade reading values to NaN for Thomas high school did not affect 1
 
 Fig: Changing 9th Grade Value with NaN for Thomas High School
 
-We do see a slight variation (0.01%) in the school type scores such as math, reading, and overall passing numbers; however, it is insignificant. Also when we formatted the both dataframes with .map format they look identical. 
+We do see a slight variation (0.01%) in the school type scores such as math, reading, and overall passing numbers; which is insignificant. Also when we formatted the both dataframes with .map format they look identical. 
 
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/school_type_og.png)
 Fig: Scores by School Type 
