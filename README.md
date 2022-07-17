@@ -25,9 +25,9 @@ Initially passing math 67%, reading 69%, and overall passing is 65%.
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/school_summary_og.png)
 Fig: Original School Summary for Thomas High School
 
-Eliminating 9th grade boosted the individual results of passing math at 93%, reading at 97 %, and overall passing is 90%.
+Eliminating 9th grade boosted the individual results of passing math at 93%, reading at 97%, and overall passing is 90%.
 
-![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/school_summary_og.png)
+![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/school_summary_ths.png)
 Fig: New School Summary for Thomas High School
 
 Thomas High school was second in place in the original analysis. After replacing values, Thomas high school still is in second place in the top five. the bottom five schools' performance remains the same.
