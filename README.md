@@ -39,10 +39,12 @@ Fig: Original Top 5 School
 Fig: New Top 5 School
 
 Changing 9th-grade math values to NaN for Thomas high school did not affect 10th, 11th or 12th grade or other schools.
-
 Changing 9th-grade reading values to NaN for Thomas high school did not affect 10th, 11th or 12th grade or other schools.
 
-We do see a slight variation (0.01%) in the school type scores such as math, reading, and overall passing numbers, but it is insignificant. And when we formatted the both dataframes they look identical. 
+![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/9th_grade_nan.png)
+Fig: Changing 9th Grade Value with NaN for Thomas High School
+
+We do see a slight variation (0.01%) in the school type scores such as math, reading, and overall passing numbers; however, it is insignificant. Also when we formatted the both dataframes with .map format they look identical. 
 
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/school_type_og.png)
 Fig: Scores by School Type 
