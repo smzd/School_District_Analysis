@@ -35,7 +35,7 @@ Thomas High school was second in place in the original analysis. After replacing
 ![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/top5_og.png)
 Fig: Original Top 5 School
 
-https://github.com/smzd/School_District_Analysis/blob/main/Resources/top5_ths.png
+![](https://github.com/smzd/School_District_Analysis/blob/main/Resources/top5_ths.png)
 Fig: New Top 5 School
 
 Changing 9th-grade math values to NaN for Thomas high school did not affect 10th, 11th or 12th grade or other schools.
@@ -58,8 +58,11 @@ Fig: Scores by School Type
 •	Scores by the school budget, school size, and school type: had no effect from the data alteration and did not affect any school.
 
 
+
 #Resources: 
+
 Data Source: Schools_complete.csv
 	     Students_complete.csv
+	     
 Software: Python 3.9.7, Visual Studio Code, Version: 1.68.1 (Universal)
                         
