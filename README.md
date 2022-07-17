@@ -56,7 +56,7 @@ Fig: Scores by School Type
 
 •	School District Summary: No change in the school district summary.
 
-•	School Performance: No change in the top 5 or bottom five lists of schools.
+•	School Performance: No change in the top five or bottom five lists of schools.
 
 •	Scores by the school budget, school size, and school type: had no effect from the data alteration and did not affect any school.
 
